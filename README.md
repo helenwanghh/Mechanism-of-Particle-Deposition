@@ -31,4 +31,4 @@ Senior Capstone Project 2021-2022
 </style>
 
 
-[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
+[![Final video of fixing issues in your code in VS Code](https://www.youtube.com/embed/nuajtc9fk5U/maxresdefault.jpg)](https://www.youtube.com/embed/nuajtc9fk5U)
