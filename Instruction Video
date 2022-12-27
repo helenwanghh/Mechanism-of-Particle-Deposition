@@ -1,3 +1,5 @@
-Here is the link for instruction video: https://youtu.be/nuajtc9fk5U 
+Here is the link for instruction video:
 
-{%include youtube.html id="nuajtc9fk5U"%}
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nuajtc9fk5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
