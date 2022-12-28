@@ -1,5 +1,5 @@
 # Mechanism-of-Particle-Deposition
-Senior Capstone Project 2021-2022
+Hello there!  Here is a project portfolio for my Senior Capstone Project (2021-2022)
 
 
 [![Instruction Video for the Mechanism Design](https://www.youtube.com/embed/nuajtc9fk5U/maxresdefault.jpg)](https://www.youtube.com/embed/nuajtc9fk5U)
