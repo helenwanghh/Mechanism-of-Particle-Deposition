@@ -27,3 +27,7 @@ A fully functional module will prevent material waste and reduce cost while prod
 Please click the link to check out the Users Operation Instrution Video: 
 [![Instruction Video for the Mechanism Design](https://www.youtube.com/embed/nuajtc9fk5U/maxresdefault.jpg)](https://www.youtube.com/embed/nuajtc9fk5U)
 ![alt text](https://github.com/helenwanghh/Mechanism-of-Particle-Deposition/blob/aaef81fc2e028a74d1c1f10eff94ab7b766659b8/demo1.png)
+
+
+**Team picture captured at the Design Night at University of Vermont!! :) **
+![alt text](https://github.com/helenwanghh/Mechanism-of-Particle-Deposition/blob/272ce959f0002257762bd160ddad7ebed83cebdd/Team%20Pic%20at%20Design%20Night.jpg)
