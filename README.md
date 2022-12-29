@@ -16,12 +16,12 @@ A fully functional module will prevent material waste and reduce cost while prod
 
 - **Client Requirements**
 
-1. Maintain clean workspace and ensure  minimal glitter escapes the box
-2.Maximize glitter use to create less waste and reduce cost on materials
-3.A way to easily control device to stop or divert the glitter flow
-4.Must only remove excess glitter and not glitter that has been adhered
-5.Be able to do multiple colors of glitters and multiple layers of glute/glitters
-6.Must not exceed surface area of conveyer belt plate: 7.5'' x 7.5''
+- Maintain clean workspace and ensure  minimal glitter escapes the box 
+- Maximize glitter use to create less waste and reduce cost on materials
+- A way to easily control device to stop or divert the glitter flow
+- Must only remove excess glitter and not glitter that has been adhered
+- Be able to do multiple colors of glitters and multiple layers of glute/glitters
+- Must not exceed surface area of conveyer belt plate: 7.5'' x 7.5''
 
 Please click the link to check out the Users Operation Instrution Video: 
 [![Instruction Video for the Mechanism Design](https://www.youtube.com/embed/nuajtc9fk5U/maxresdefault.jpg)](https://www.youtube.com/embed/nuajtc9fk5U)
