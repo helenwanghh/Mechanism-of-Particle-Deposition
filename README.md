@@ -14,7 +14,8 @@ Provide proof of principle, using glitter as a substitute for various powders. T
 
 A fully functional module will prevent material waste and reduce cost while producing high quality/ high resolution prints for clients across several industries.
 
-- **Client Requirements**
+
+ **Client Requirements**
 
 - Maintain clean workspace and ensure  minimal glitter escapes the box 
 - Maximize glitter use to create less waste and reduce cost on materials
